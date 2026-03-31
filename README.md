@@ -64,7 +64,7 @@ I am currently pursuing a Bachelor of Technology in Artificial Intelligence and 
 
 - 💼 LinkedIn: https://in.linkedin.com/in/your-profile  
 - 💻 GitHub: https://github.com/allen745  
-
+see portfolio  https://allen745.github.io
 ---
 
 ## 📌 Goals
