@@ -42,12 +42,6 @@ I am currently pursuing a Bachelor of Technology in Artificial Intelligence and 
 
 ---
 
-## 🌍 Languages
-
-- English (Advanced)  
-- Hindi (Intermediate)  
-- Gujarati (Intermediate)  
-
 ---
 
 ## 🏆 Achievements
@@ -62,7 +56,7 @@ I am currently pursuing a Bachelor of Technology in Artificial Intelligence and 
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://in.linkedin.com/in/your-profile  
+- 💼 LinkedIn: [https://in.linkedin.com/in/your-profile ](https://www.linkedin.com/in/allen-christian-708545409/) 
 - 💻 GitHub: https://github.com/allen745  
 see portfolio  https://allen745.github.io
 ---
