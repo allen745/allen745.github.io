@@ -82,3 +82,7 @@ What I bring to the table:
 ---
 
 ⭐ *Always learning, building, and growing in the world of technology!*
+
+
+
+Made By  ALLEN STIVANSON CHRISTIAN || https://www.linkedin.com/in/allen-christian-708545409/  || Patent Holder
