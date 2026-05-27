@@ -10,6 +10,16 @@ I am a passionate and motivated AI & Data Science student with a strong foundati
 
 I am currently pursuing a Bachelor of Technology in Artificial Intelligence and Data Science and actively working on improving my technical and problem-solving skills.
 
+**Aspiring Software Developer | Full Stack (React · Node.js) | AI & ML | Data Science | Patent Holder**
+
+I'm a software developer and AI enthusiast who doesn't just study technology — I build with it.
+Currently pursuing B.Tech in Artificial Intelligence & Data Science at A.D. Patel Institute of Technology, I've spent the last year going beyond the classroom — completing an AI internship, earning 11+ certifications, and filing a design patent for a Spring-Loaded Piezoelectric Generating Striker Device.
+What I bring to the table:
+🔹 Full Stack Development — React.js, Node.js, HTML/CSS, REST APIs
+🔹 AI & Machine Learning — Python, ML frameworks, Data Science
+🔹 Data Structures & Algorithms — strong problem-solving foundation
+🔹 Real-world project builder — I learn by building, not just reading
+
 ---
 
 ## 💼 Experience
@@ -58,7 +68,9 @@ I am currently pursuing a Bachelor of Technology in Artificial Intelligence and 
 
 - 💼 LinkedIn: [https://in.linkedin.com/in/your-profile ](https://www.linkedin.com/in/allen-christian-708545409/) 
 - 💻 GitHub: https://github.com/allen745  
-see portfolio  https://allen745.github.io
+-  portfolio  https://allen745.github.io
+-  Web Application DevMind-AI https://devmind-ai-topaz.vercel.app/
+-  
 ---
 
 ## 📌 Goals
